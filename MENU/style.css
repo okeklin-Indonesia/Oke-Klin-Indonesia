@@ -21,15 +21,19 @@ header .logo
   width: 120px; /* ukuran logo */
   height: auto;
 }
-header .gambar_001 
+
+<style>
+.logo 
 {
-  position: absolute;
-  /*top: 200px;   /* jarak dari atas */
-  /*right: 10px; /* jarak dari kanan */
-  /*left: 10px; /* jarak dari kanan */
+  width: 75%; /*100px; /* ukuran logo */
+  height: auto;
+}
+.gambar_001 
+{
   width: 60%; /*100px; /* ukuran gambar_001 */
   height: auto;
 }
+</style>
 nav {
   background: #333;
   padding: 10px;
@@ -64,6 +68,7 @@ footer {
   padding: 10px;
   margin-top: 20px;
 }
+
 
 
 
