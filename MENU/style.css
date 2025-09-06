@@ -13,7 +13,12 @@ header {
   padding: 20px;
   text-align: center;
 }
-
+header .logo {
+  position: absolute;
+  top: 10px;   /* jarak dari atas */
+  right: 10px; /* jarak dari kanan */
+  width: 90px; /* ukuran logo */
+  height: auto;
 nav {
   background: #333;
   padding: 10px;
@@ -53,3 +58,4 @@ header img {
   margin: 0 auto 10px auto; /* posisi di tengah */
   border-radius: 50%;       /* bikin logo bulat (opsional) */
 }
+
