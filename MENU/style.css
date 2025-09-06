@@ -24,9 +24,10 @@ header .logo
 header .gambar_001 
 {
   position: absolute;
-  top: 200px;   /* jarak dari atas */
-  right: 50px; /* jarak dari kanan */
-  width: 200px; /* ukuran gambar_001 */
+  /*top: 200px;   /* jarak dari atas */
+  /*right: 10px; /* jarak dari kanan */
+  left: 10px; /* jarak dari kanan */
+  width: 100px; /* ukuran gambar_001 */
   height: auto;
 }
 nav {
@@ -63,6 +64,7 @@ footer {
   padding: 10px;
   margin-top: 20px;
 }
+
 
 
 
