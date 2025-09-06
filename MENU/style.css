@@ -17,7 +17,7 @@ header .logo {
   position: absolute;
   top: 10px;   /* jarak dari atas */
   right: 10px; /* jarak dari kanan */
-  width: 90px; /* ukuran logo */
+  width: 60px; /* ukuran logo */
   height: auto;
 nav {
   background: #333;
@@ -53,6 +53,7 @@ footer {
   padding: 10px;
   margin-top: 20px;
 }
+
 
 
 
