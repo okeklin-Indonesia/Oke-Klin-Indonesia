@@ -18,14 +18,13 @@ header .logo
   position: absolute;
   top: 10px;   /* jarak dari atas */
   right: 10px; /* jarak dari kanan */
-  width: 150px; /* ukuran logo */
-  height: auto;
+  
 }
 
 <style>
 .logo 
 {
-  width: 75%; /*100px; /* ukuran logo */
+  width: 100%; /*100px; /* ukuran logo */
   height: auto;
 }
 .gambar_001 
@@ -68,6 +67,7 @@ footer {
   padding: 10px;
   margin-top: 20px;
 }
+
 
 
 
