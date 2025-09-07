@@ -14,21 +14,14 @@ header {
   text-align: center;
 }
 
-header .logo
+header .logo 
 {
- position: absolute;
+  position: absolute;
   top: 10px;   /* jarak dari atas */
   right: 10px; /* jarak dari kanan */
-  width: 7%; /*100px; /* ukuran logo */
+  width: 160px; /* ukuran logo */
   height: auto;
 }
-<style>
-.gambar_001 
-{
-  width: 100px; /*100px; /* ukuran gambar_001 */
-  height: auto;
-}
-</style>
 nav {
   background: #333;
   padding: 10px;
@@ -56,6 +49,18 @@ h2 {
   padding-bottom: 5px;
 }
 
+h3 {
+  border-bottom: 2px solid #4CAF50;
+  padding-bottom: 5px;
+}
+
+.gambar_001 
+{
+  width: auto;
+  height: 400px;
+}
+
+
 footer {
   background: #333;
   color: white;
@@ -64,29 +69,10 @@ footer {
   margin-top: 20px;
 }
 
+p2 {
+  margin-bottom: 0.5px; /* jarak antar paragraf */
+  line-height: 0.5px;    /* jarak antar baris */
+  font-size: 12px;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
