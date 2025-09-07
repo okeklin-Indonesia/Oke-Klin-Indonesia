@@ -25,7 +25,7 @@ header .logo
 <style>
 .gambar_001 
 {
-  width: 35%; /*100px; /* ukuran gambar_001 */
+  width: 100px; /*100px; /* ukuran gambar_001 */
   height: auto;
 }
 </style>
@@ -63,6 +63,7 @@ footer {
   padding: 10px;
   margin-top: 20px;
 }
+
 
 
 
